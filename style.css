@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    background-color: yellowgreen;
+}
+
+
+img{
+    width: 300px;
+    /* 等比例放大缩小比例 */
+    aspect-ration: 16/9;
+}
